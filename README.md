@@ -1,2 +1,3 @@
-# SpartaNum6
-내일배움캠프 6번 과제
+# Num6
+
+Developed with Unreal Engine 5
